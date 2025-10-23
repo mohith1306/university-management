@@ -209,7 +209,7 @@ python-dotenv
 
 ## 👨‍💻 Author
 
-**Developed by:** Mohith T  
+**Developed by:** Mohith T, Murthy Narasimhulu
 **Project:** University Management System  
 **Tech Stack:** React + Flask + MySQL  
 
